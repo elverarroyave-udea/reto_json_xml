@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu_desayuno>
+    <opcion>
+        <nombre>PanCakes</nombre>
+        <valor>$2.95</valor>
+        <descripcion>Lithuanian Pancake Recipe - Blynai or Sklindziai
+        </descripcion>
+        <kcal>500</kcal>
+    </opcion>
+    <opcion>
+        <nombre>Belgian Waffles</nombre>
+        <valor>$5.95</valor>
+        <descripcion>Two of our famous Belgian Waffles with plenty of real maple syrup</descripcion>
+        <kcal>650</kcal>
+    </opcion>
+    <opcion>
+        <nombre>Strawberry Belgian Waffles</nombre>
+        <valor>$7.95</valor>
+        <descripcion>
+            Light Belgian waffles covered with strawberries and whipped cream
+        </descripcion>
+        <kcal>900</kcal>
+    </opcion>
+</menu_desayuno>
